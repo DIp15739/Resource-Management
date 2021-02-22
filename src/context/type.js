@@ -1,0 +1,16 @@
+export const CREATE_PROJECT = 'CREATE_PROJECT';
+export const READ_PROJECTS = 'READ_PROJECTS';
+export const UPDATE_PROJECT = 'UPDATE_PROJECT';
+export const DELETE_PROJECT = 'DELETE_PROJECT';
+
+export const CREATE_RESOURCE = 'CREATE_RESOURCE';
+export const READ_RESOURCES = 'READ_RESOURCES';
+export const UPDATE_RESOURCE = 'UPDATE_RESOURCE';
+export const DELETE_RESOURCE = 'DELETE_RESOURCE';
+
+export const LOGIN = 'LOGIN';
+export const LOGOUT = 'LOGOUT';
+export const SIGNUP = 'SIGNUP';
+
+export const SET_LOADING = 'SET_LOADING';
+export const UNSET_LOADING = 'UNSET_LOADING';
